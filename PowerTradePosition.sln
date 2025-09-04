@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerTradePosition", "PowerTradePosition\PowerTradePosition.csproj", "{68C4D69C-338B-4ABE-B0CB-65FB041816E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68C4D69C-338B-4ABE-B0CB-65FB041816E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68C4D69C-338B-4ABE-B0CB-65FB041816E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68C4D69C-338B-4ABE-B0CB-65FB041816E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68C4D69C-338B-4ABE-B0CB-65FB041816E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E23AB0FF-478D-49F2-AEE5-AB75C90E41F6}
+	EndGlobalSection
+EndGlobal
